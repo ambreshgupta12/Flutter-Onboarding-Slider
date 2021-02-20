@@ -1,7 +1,7 @@
 name: flutter_onboarding_slider
 description: A new Flutter package which is helps  developers in creating onboarding intro slider of their app.
 version: 0.0.1
-author:Ambresh Gupta <ambreshgupta12@gmail.com>
+author: ambreshgupta12@gmail.com
 homepage: https://github.com/ambreshgupta12/Flutter-Onboarding-Slider
 
 environment:
